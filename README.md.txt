@@ -54,3 +54,4 @@ If we have use the current project folder,  This folder is clone folder, this fo
 We can remove the origin link with git remote remove origin
 And then we add the new origin link with  
 git remote add origin https://github.com/lupyawgyi/home_learning.git (SSH Link)
+and then we can push to github site with git push origin master
